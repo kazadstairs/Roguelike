@@ -39,7 +39,6 @@ namespace Roguelike
         Player ActivePlayer;
 
         public Queue<MyEvent> EventList= new Queue<MyEvent>();
-        public Simulation
 
 
         Dungeon Level;
